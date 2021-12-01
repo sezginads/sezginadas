@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sezginads
+- 👋 Hi, I’m @sezginadas
 - 👀 I’m interested in Full Stack 
 - 🌱 I’m currently learning Javascript
 
